@@ -1,3 +1,12 @@
+Summary: 
+
+I have worked on NHS datasets during my virtual work experience in Digdata. This is report created on anti-depressant drugs sold in UK between 2021-2024. I have analyzed and predicted the sales of anti depressant drugs, found highly co-related variables, best fit model to predict its future sales. Along gave clear data visualization with R language using libraries tidyr, dplyr, and highcharter.
+
+
+
+
+
+
 ---
 title: 'Longitudinal Analysis of Antidepressant Prescribing'
 author: "DHANAKARTHIK EJUMALAI"
